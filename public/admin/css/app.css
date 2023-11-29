@@ -1,0 +1,11 @@
+.card-header .cart-title{
+    float: left;
+
+}
+.dropzone.dz-started .dz-message{
+    display: block;
+}
+.dropzone .dz-message{
+    margin: 0;
+}
+/**/

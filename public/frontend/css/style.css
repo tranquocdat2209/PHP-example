@@ -1,0 +1,11 @@
+#selectSort{
+    height: 100%;
+    width: 100%;
+    border: none;
+    padding-left: 10px;
+    color: #888;
+    outline: none !important;
+}
+.product-list-paginate .text-muted{
+    display: none;
+}
